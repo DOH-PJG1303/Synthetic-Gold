@@ -1,0 +1,140 @@
+"Notes"	"Year"	"Year Code"	"Residence State"	"Residence State Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval
+	"2021 (provisional)"	"2021"	"Alabama"	"01"	68889	4921532	1399.7	1389.3	1410.2
+	"2021 (provisional)"	"2021"	"Alaska"	"02"	6208	731158	849.1	827.9	870.2
+	"2021 (provisional)"	"2021"	"Arizona"	"04"	81442	7421401	1097.4	1089.9	1104.9
+	"2021 (provisional)"	"2021"	"Arkansas"	"05"	40070	3030522	1322.2	1309.3	1335.2
+	"2021 (provisional)"	"2021"	"California"	"06"	333249	39368078	846.5	843.6	849.4
+	"2021 (provisional)"	"2021"	"Colorado"	"08"	48281	5807719	831.3	823.9	838.7
+	"2021 (provisional)"	"2021"	"Connecticut"	"09"	34333	3557006	965.2	955.0	975.4
+	"2021 (provisional)"	"2021"	"Delaware"	"10"	11296	986809	1144.7	1123.6	1165.8
+	"2021 (provisional)"	"2021"	"District of Columbia"	"11"	5833	712816	818.3	797.3	839.3
+	"2021 (provisional)"	"2021"	"Florida"	"12"	261369	21733312	1202.6	1198.0	1207.2
+	"2021 (provisional)"	"2021"	"Georgia"	"13"	112272	10710017	1048.3	1042.2	1054.4
+	"2021 (provisional)"	"2021"	"Hawaii"	"15"	12815	1407006	910.8	895.0	926.6
+	"2021 (provisional)"	"2021"	"Idaho"	"16"	18346	1826913	1004.2	989.7	1018.7
+	"2021 (provisional)"	"2021"	"Illinois"	"17"	125048	12587530	993.4	987.9	998.9
+	"2021 (provisional)"	"2021"	"Indiana"	"18"	78317	6754953	1159.4	1151.3	1167.5
+	"2021 (provisional)"	"2021"	"Iowa"	"19"	34215	3163561	1081.5	1070.1	1093.0
+	"2021 (provisional)"	"2021"	"Kansas"	"20"	32029	2913805	1099.2	1087.2	1111.3
+	"2021 (provisional)"	"2021"	"Kentucky"	"21"	60303	4477251	1346.9	1336.1	1357.6
+	"2021 (provisional)"	"2021"	"Louisiana"	"22"	57533	4645318	1238.5	1228.4	1248.6
+	"2021 (provisional)"	"2021"	"Maine"	"23"	17269	1350141	1279.1	1260.0	1298.1
+	"2021 (provisional)"	"2021"	"Maryland"	"24"	58117	6055802	959.7	951.9	967.5
+	"2021 (provisional)"	"2021"	"Massachusetts"	"25"	63115	6893574	915.6	908.4	922.7
+	"2021 (provisional)"	"2021"	"Michigan"	"26"	117782	9966555	1181.8	1175.0	1188.5
+	"2021 (provisional)"	"2021"	"Minnesota"	"27"	51640	5657342	912.8	904.9	920.7
+	"2021 (provisional)"	"2021"	"Mississippi"	"28"	41085	2966786	1384.8	1371.4	1398.2
+	"2021 (provisional)"	"2021"	"Missouri"	"29"	73847	6151548	1200.5	1191.8	1209.1
+	"2021 (provisional)"	"2021"	"Montana"	"30"	12707	1080577	1175.9	1155.5	1196.4
+	"2021 (provisional)"	"2021"	"Nebraska"	"31"	18925	1937552	976.7	962.8	990.7
+	"2021 (provisional)"	"2021"	"Nevada"	"32"	32923	3138259	1049.1	1037.8	1060.4
+	"2021 (provisional)"	"2021"	"New Hampshire"	"33"	14198	1366275	1039.2	1022.1	1056.3
+	"2021 (provisional)"	"2021"	"New Jersey"	"34"	84032	8882371	946.1	939.7	952.5
+	"2021 (provisional)"	"2021"	"New Mexico"	"35"	25300	2106319	1201.1	1186.3	1215.9
+	"2021 (provisional)"	"2021"	"New York"	"36"	181360	19336776	937.9	933.6	942.2
+	"2021 (provisional)"	"2021"	"North Carolina"	"37"	118093	10600823	1114.0	1107.6	1120.4
+	"2021 (provisional)"	"2021"	"North Dakota"	"38"	7266	765309	949.4	927.6	971.3
+	"2021 (provisional)"	"2021"	"Ohio"	"39"	147635	11693217	1262.6	1256.1	1269.0
+	"2021 (provisional)"	"2021"	"Oklahoma"	"40"	50945	3980783	1279.8	1268.7	1290.9
+	"2021 (provisional)"	"2021"	"Oregon"	"41"	44989	4241507	1060.7	1050.9	1070.5
+	"2021 (provisional)"	"2021"	"Pennsylvania"	"42"	155390	12783254	1215.6	1209.5	1221.6
+	"2021 (provisional)"	"2021"	"Rhode Island"	"44"	11243	1057125	1063.5	1043.9	1083.2
+	"2021 (provisional)"	"2021"	"South Carolina"	"45"	65422	5218040	1253.8	1244.2	1263.4
+	"2021 (provisional)"	"2021"	"South Dakota"	"46"	9185	892717	1028.9	1007.8	1049.9
+	"2021 (provisional)"	"2021"	"Tennessee"	"47"	91130	6886834	1323.2	1314.7	1331.8
+	"2021 (provisional)"	"2021"	"Texas"	"48"	267651	29360759	911.6	908.1	915.0
+	"2021 (provisional)"	"2021"	"Utah"	"49"	22569	3249879	694.5	685.4	703.5
+	"2021 (provisional)"	"2021"	"Vermont"	"50"	6877	623347	1103.2	1077.2	1129.3
+	"2021 (provisional)"	"2021"	"Virginia"	"51"	85940	8590563	1000.4	993.7	1007.1
+	"2021 (provisional)"	"2021"	"Washington"	"53"	68689	7693612	892.8	886.1	899.5
+	"2021 (provisional)"	"2021"	"West Virginia"	"54"	29503	1784787	1653.0	1634.2	1671.9
+	"2021 (provisional)"	"2021"	"Wisconsin"	"55"	60973	5832655	1045.4	1037.1	1053.7
+	"2021 (provisional)"	"2021"	"Wyoming"	"56"	6582	582328	1130.3	1103.0	1157.6
+"Total"	"2021 (provisional)"	"2021"			3464230	329484123	1051.4	1050.3	1052.5
+	"2022 (provisional and partial)"	"2022"	"Alabama"	"01"	49094	4921532	997.5	988.7	1006.4
+	"2022 (provisional and partial)"	"2022"	"Alaska"	"02"	4282	731158	585.6	568.1	603.2
+	"2022 (provisional and partial)"	"2022"	"Arizona"	"04"	58847	7421401	792.9	786.5	799.3
+	"2022 (provisional and partial)"	"2022"	"Arkansas"	"05"	30062	3030522	992.0	980.8	1003.2
+	"2022 (provisional and partial)"	"2022"	"California"	"06"	246636	39368078	626.5	624.0	629.0
+	"2022 (provisional and partial)"	"2022"	"Colorado"	"08"	36813	5807719	633.9	627.4	640.3
+	"2022 (provisional and partial)"	"2022"	"Connecticut"	"09"	27017	3557006	759.5	750.5	768.6
+	"2022 (provisional and partial)"	"2022"	"Delaware"	"10"	8894	986809	901.3	882.6	920.0
+	"2022 (provisional and partial)"	"2022"	"District of Columbia"	"11"	4183	712816	586.8	569.0	604.6
+	"2022 (provisional and partial)"	"2022"	"Florida"	"12"	192311	21733312	884.9	880.9	888.8
+	"2022 (provisional and partial)"	"2022"	"Georgia"	"13"	79412	10710017	741.5	736.3	746.6
+	"2022 (provisional and partial)"	"2022"	"Hawaii"	"15"	10239	1407006	727.7	713.6	741.8
+	"2022 (provisional and partial)"	"2022"	"Idaho"	"16"	13613	1826913	745.1	732.6	757.7
+	"2022 (provisional and partial)"	"2022"	"Illinois"	"17"	97683	12587530	776.0	771.2	780.9
+	"2022 (provisional and partial)"	"2022"	"Indiana"	"18"	59043	6754953	874.1	867.0	881.1
+	"2022 (provisional and partial)"	"2022"	"Iowa"	"19"	26716	3163561	844.5	834.4	854.6
+	"2022 (provisional and partial)"	"2022"	"Kansas"	"20"	25098	2913805	861.3	850.7	872.0
+	"2022 (provisional and partial)"	"2022"	"Kentucky"	"21"	44128	4477251	985.6	976.4	994.8
+	"2022 (provisional and partial)"	"2022"	"Louisiana"	"22"	39834	4645318	857.5	849.1	865.9
+	"2022 (provisional and partial)"	"2022"	"Maine"	"23"	13824	1350141	1023.9	1006.8	1041.0
+	"2022 (provisional and partial)"	"2022"	"Maryland"	"24"	44809	6055802	739.9	733.1	746.8
+	"2022 (provisional and partial)"	"2022"	"Massachusetts"	"25"	50403	6893574	731.2	724.8	737.5
+	"2022 (provisional and partial)"	"2022"	"Michigan"	"26"	87636	9966555	879.3	873.5	885.1
+	"2022 (provisional and partial)"	"2022"	"Minnesota"	"27"	39865	5657342	704.7	697.7	711.6
+	"2022 (provisional and partial)"	"2022"	"Mississippi"	"28"	29985	2966786	1010.7	999.2	1022.1
+	"2022 (provisional and partial)"	"2022"	"Missouri"	"29"	55614	6151548	904.1	896.6	911.6
+	"2022 (provisional and partial)"	"2022"	"Montana"	"30"	9285	1080577	859.3	841.8	876.7
+	"2022 (provisional and partial)"	"2022"	"Nebraska"	"31"	14498	1937552	748.3	736.1	760.4
+	"2022 (provisional and partial)"	"2022"	"Nevada"	"32"	24525	3138259	781.5	771.7	791.3
+	"2022 (provisional and partial)"	"2022"	"New Hampshire"	"33"	11545	1366275	845.0	829.6	860.4
+	"2022 (provisional and partial)"	"2022"	"New Jersey"	"34"	64919	8882371	730.9	725.3	736.5
+	"2022 (provisional and partial)"	"2022"	"New Mexico"	"35"	18207	2106319	864.4	851.8	877.0
+	"2022 (provisional and partial)"	"2022"	"New York"	"36"	138150	19336776	714.4	710.7	718.2
+	"2022 (provisional and partial)"	"2022"	"North Carolina"	"37"	87524	10600823	825.6	820.2	831.1
+	"2022 (provisional and partial)"	"2022"	"North Dakota"	"38"	5500	765309	718.7	699.7	737.7
+	"2022 (provisional and partial)"	"2022"	"Ohio"	"39"	108726	11693217	929.8	924.3	935.3
+	"2022 (provisional and partial)"	"2022"	"Oklahoma"	"40"	37944	3980783	953.2	943.6	962.8
+	"2022 (provisional and partial)"	"2022"	"Oregon"	"41"	34387	4241507	810.7	802.2	819.3
+	"2022 (provisional and partial)"	"2022"	"Pennsylvania"	"42"	116639	12783254	912.4	907.2	917.7
+	"2022 (provisional and partial)"	"2022"	"Rhode Island"	"44"	8523	1057125	806.2	789.1	823.4
+	"2022 (provisional and partial)"	"2022"	"South Carolina"	"45"	48423	5218040	928.0	919.7	936.3
+	"2022 (provisional and partial)"	"2022"	"South Dakota"	"46"	6904	892717	773.4	755.1	791.6
+	"2022 (provisional and partial)"	"2022"	"Tennessee"	"47"	67488	6886834	980.0	972.6	987.4
+	"2022 (provisional and partial)"	"2022"	"Texas"	"48"	191023	29360759	650.6	647.7	653.5
+	"2022 (provisional and partial)"	"2022"	"Utah"	"49"	17457	3249879	537.2	529.2	545.1
+	"2022 (provisional and partial)"	"2022"	"Vermont"	"50"	5483	623347	879.6	856.3	902.9
+	"2022 (provisional and partial)"	"2022"	"Virginia"	"51"	65930	8590563	767.5	761.6	773.3
+	"2022 (provisional and partial)"	"2022"	"Washington"	"53"	54007	7693612	702.0	696.1	707.9
+	"2022 (provisional and partial)"	"2022"	"West Virginia"	"54"	21687	1784787	1215.1	1198.9	1231.3
+	"2022 (provisional and partial)"	"2022"	"Wisconsin"	"55"	47834	5832655	820.1	812.8	827.5
+	"2022 (provisional and partial)"	"2022"	"Wyoming"	"56"	4674	582328	802.6	779.6	825.7
+"Total"	"2022 (provisional and partial)"	"2022"			2587323	329484123	785.3	784.3	786.2
+"Total"					6051553	658968246	918.3	917.6	919.1
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"Title: Provisional and Partial Deaths for January 1, 2021 - October 22, 2022"
+"Year/Month: 2021 (provisional); 2022 (provisional and partial)"
+"Group By: Year; Residence State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Nov 22, 2022 3:03:38 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2021-2022, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Nov 22, 2022 3:03:38"
+"PM"
+"---"
+Caveats:
+"1. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Confidence-Intervals."
+"2. The population figures for years 2021 and 2020 are single-race estimates of the July 1 resident population, from the Vintage"
+"2020 postcensal series released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series released by the Census Bureau on June 25,"
+"2020. The population figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by the Census Bureau on June 20, 2019."
+"3. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"4. Deaths occurring through October 22, 2022 as of November 06, 2022."
