@@ -1,0 +1,760 @@
+State,Values
+New Hampshire,001
+New Hampshire,002
+New Hampshire,003
+Maine,004
+Maine,005
+Maine,006
+Maine,007
+Vermont,008
+Vermont,009
+Massachusetts,010
+Massachusetts,011
+Massachusetts,012
+Massachusetts,013
+Massachusetts,014
+Massachusetts,015
+Massachusetts,016
+Massachusetts,017
+Massachusetts,018
+Massachusetts,019
+Massachusetts,020
+Massachusetts,021
+Massachusetts,022
+Massachusetts,023
+Massachusetts,024
+Massachusetts,025
+Massachusetts,026
+Massachusetts,027
+Massachusetts,028
+Massachusetts,029
+Massachusetts,030
+Massachusetts,031
+Massachusetts,032
+Massachusetts,033
+Massachusetts,034
+Rhode Island,035
+Rhode Island,036
+Rhode Island,037
+Rhode Island,038
+Rhode Island,039
+Connecticut,040
+Connecticut,041
+Connecticut,042
+Connecticut,043
+Connecticut,044
+Connecticut,045
+Connecticut,046
+Connecticut,047
+Connecticut,048
+Connecticut,049
+New York,050
+New York,051
+New York,052
+New York,053
+New York,054
+New York,055
+New York,056
+New York,057
+New York,058
+New York,059
+New York,060
+New York,061
+New York,062
+New York,063
+New York,064
+New York,065
+New York,066
+New York,067
+New York,068
+New York,069
+New York,070
+New York,071
+New York,072
+New York,073
+New York,074
+New York,075
+New York,076
+New York,077
+New York,078
+New York,079
+New York,080
+New York,081
+New York,082
+New York,083
+New York,084
+New York,085
+New York,086
+New York,087
+New York,088
+New York,089
+New York,090
+New York,091
+New York,092
+New York,093
+New York,094
+New York,095
+New York,096
+New York,097
+New York,098
+New York,099
+New York,100
+New York,101
+New York,102
+New York,103
+New York,104
+New York,105
+New York,106
+New York,107
+New York,108
+New York,109
+New York,110
+New York,111
+New York,112
+New York,113
+New York,114
+New York,115
+New York,116
+New York,117
+New York,118
+New York,119
+New York,120
+New York,121
+New York,122
+New York,123
+New York,124
+New York,125
+New York,126
+New York,127
+New York,128
+New York,129
+New York,130
+New York,131
+New York,132
+New York,133
+New York,134
+New Jersey,135
+New Jersey,136
+New Jersey,137
+New Jersey,138
+New Jersey,139
+New Jersey,140
+New Jersey,141
+New Jersey,142
+New Jersey,143
+New Jersey,144
+New Jersey,145
+New Jersey,146
+New Jersey,147
+New Jersey,148
+New Jersey,149
+New Jersey,150
+New Jersey,151
+New Jersey,152
+New Jersey,153
+New Jersey,154
+New Jersey,155
+New Jersey,156
+New Jersey,157
+New Jersey,158
+Pennsylvania,159
+Pennsylvania,160
+Pennsylvania,161
+Pennsylvania,162
+Pennsylvania,163
+Pennsylvania,164
+Pennsylvania,165
+Pennsylvania,166
+Pennsylvania,167
+Pennsylvania,168
+Pennsylvania,169
+Pennsylvania,170
+Pennsylvania,171
+Pennsylvania,172
+Pennsylvania,173
+Pennsylvania,174
+Pennsylvania,175
+Pennsylvania,176
+Pennsylvania,177
+Pennsylvania,178
+Pennsylvania,179
+Pennsylvania,180
+Pennsylvania,181
+Pennsylvania,182
+Pennsylvania,183
+Pennsylvania,184
+Pennsylvania,185
+Pennsylvania,186
+Pennsylvania,187
+Pennsylvania,188
+Pennsylvania,189
+Pennsylvania,190
+Pennsylvania,191
+Pennsylvania,192
+Pennsylvania,193
+Pennsylvania,194
+Pennsylvania,195
+Pennsylvania,196
+Pennsylvania,197
+Pennsylvania,198
+Pennsylvania,199
+Pennsylvania,200
+Pennsylvania,201
+Pennsylvania,202
+Pennsylvania,203
+Pennsylvania,204
+Pennsylvania,205
+Pennsylvania,206
+Pennsylvania,207
+Pennsylvania,208
+Pennsylvania,209
+Pennsylvania,210
+Pennsylvania,211
+Maryland,212
+Maryland,213
+Maryland,214
+Maryland,215
+Maryland,216
+Maryland,217
+Maryland,218
+Maryland,219
+Maryland,220
+Delaware,221
+Delaware,222
+Virginia,691
+Virginia,692
+Virginia,693
+Virginia,694
+Virginia,695
+Virginia,696
+Virginia,697
+Virginia,698
+Virginia,699
+Virginia,223
+Virginia,224
+Virginia,225
+Virginia,226
+Virginia,227
+Virginia,228
+Virginia,229
+Virginia,230
+Virginia,231
+West Virginia,232
+West Virginia,233
+West Virginia,234
+West Virginia,235
+West Virginia,236
+North Carolina,237
+North Carolina,238
+North Carolina,239
+North Carolina,240
+North Carolina,241
+North Carolina,242
+North Carolina,243
+North Carolina,244
+North Carolina,245
+North Carolina,246
+North Carolina,232
+South Carolina,654
+South Carolina,655
+South Carolina,656
+South Carolina,657
+South Carolina,658
+South Carolina,247
+South Carolina,248
+South Carolina,249
+South Carolina,250
+South Carolina,251
+South Carolina,681
+South Carolina,682
+South Carolina,683
+South Carolina,684
+South Carolina,685
+South Carolina,686
+South Carolina,687
+South Carolina,688
+South Carolina,689
+South Carolina,690
+Georgia,667
+Georgia,668
+Georgia,669
+Georgia,670
+Georgia,671
+Georgia,672
+Georgia,673
+Georgia,674
+Georgia,675
+Georgia,252
+Georgia,253
+Georgia,254
+Georgia,255
+Georgia,256
+Georgia,257
+Georgia,258
+Georgia,259
+Georgia,260
+Florida,589
+Florida,590
+Florida,591
+Florida,592
+Florida,593
+Florida,594
+Florida,595
+Florida,261
+Florida,262
+Florida,263
+Florida,264
+Florida,265
+Florida,266
+Florida,267
+Ohio,766
+Ohio,767
+Ohio,768
+Ohio,769
+Ohio,770
+Ohio,771
+Ohio,772
+Ohio,268
+Ohio,269
+Ohio,270
+Ohio,271
+Ohio,272
+Ohio,273
+Ohio,274
+Ohio,275
+Ohio,276
+Ohio,277
+Ohio,278
+Ohio,279
+Ohio,280
+Ohio,281
+Ohio,282
+Ohio,283
+Ohio,284
+Ohio,285
+Ohio,286
+Ohio,287
+Ohio,288
+Ohio,289
+Ohio,290
+Ohio,291
+Ohio,292
+Ohio,293
+Ohio,294
+Ohio,295
+Ohio,296
+Ohio,297
+Ohio,298
+Ohio,299
+Ohio,300
+Ohio,301
+Ohio,302
+Indiana,303
+Indiana,304
+Indiana,305
+Indiana,306
+Indiana,307
+Indiana,308
+Indiana,309
+Indiana,310
+Indiana,311
+Indiana,312
+Indiana,313
+Indiana,314
+Indiana,315
+Indiana,316
+Indiana,317
+Illinois,318
+Illinois,319
+Illinois,320
+Illinois,321
+Illinois,322
+Illinois,323
+Illinois,324
+Illinois,325
+Illinois,326
+Illinois,327
+Illinois,328
+Illinois,329
+Illinois,330
+Illinois,331
+Illinois,332
+Illinois,333
+Illinois,334
+Illinois,335
+Illinois,336
+Illinois,337
+Illinois,338
+Illinois,339
+Illinois,340
+Illinois,341
+Illinois,342
+Illinois,343
+Illinois,344
+Illinois,345
+Illinois,346
+Illinois,347
+Illinois,348
+Illinois,349
+Illinois,350
+Illinois,351
+Illinois,352
+Illinois,353
+Illinois,354
+Illinois,355
+Illinois,356
+Illinois,357
+Illinois,358
+Illinois,359
+Illinois,360
+Illinois,361
+Michigan,362
+Michigan,363
+Michigan,364
+Michigan,365
+Michigan,366
+Michigan,367
+Michigan,368
+Michigan,369
+Michigan,370
+Michigan,371
+Michigan,372
+Michigan,373
+Michigan,374
+Michigan,375
+Michigan,376
+Michigan,377
+Michigan,378
+Michigan,379
+Michigan,380
+Michigan,381
+Michigan,382
+Michigan,383
+Michigan,384
+Michigan,385
+Michigan,386
+Wisconsin,387
+Wisconsin,388
+Wisconsin,389
+Wisconsin,390
+Wisconsin,391
+Wisconsin,392
+Wisconsin,393
+Wisconsin,394
+Wisconsin,395
+Wisconsin,396
+Wisconsin,397
+Wisconsin,398
+Wisconsin,399
+Kentucky,400
+Kentucky,401
+Kentucky,402
+Kentucky,403
+Kentucky,404
+Kentucky,405
+Kentucky,406
+Kentucky,407
+Tennessee,756
+Tennessee,757
+Tennessee,758
+Tennessee,759
+Tennessee,760
+Tennessee,761
+Tennessee,762
+Tennessee,763
+Tennessee,408
+Tennessee,409
+Tennessee,410
+Tennessee,411
+Tennessee,412
+Tennessee,413
+Tennessee,414
+Tennessee,415
+Alabama,416
+Alabama,417
+Alabama,418
+Alabama,419
+Alabama,420
+Alabama,421
+Alabama,422
+Alabama,423
+Alabama,424
+Mississippi,587
+Mississippi,588
+Mississippi,425
+Mississippi,426
+Mississippi,427
+Mississippi,428
+Arkansas,676
+Arkansas,677
+Arkansas,678
+Arkansas,679
+Arkansas,429
+Arkansas,430
+Arkansas,431
+Arkansas,432
+Arkansas,752
+Arkansas,753
+Arkansas,754
+Arkansas,755
+Louisiana,659
+Louisiana,660
+Louisiana,661
+Louisiana,662
+Louisiana,663
+Louisiana,664
+Louisiana,665
+Louisiana,433
+Louisiana,434
+Louisiana,435
+Louisiana,436
+Louisiana,437
+Louisiana,438
+Louisiana,439
+Oklahoma,440
+Oklahoma,441
+Oklahoma,442
+Oklahoma,443
+Oklahoma,444
+Oklahoma,445
+Oklahoma,446
+Oklahoma,447
+Oklahoma,448
+Texas,627
+Texas,628
+Texas,629
+Texas,630
+Texas,631
+Texas,632
+Texas,633
+Texas,634
+Texas,635
+Texas,636
+Texas,637
+Texas,638
+Texas,639
+Texas,640
+Texas,641
+Texas,642
+Texas,643
+Texas,644
+Texas,645
+Texas,449
+Texas,450
+Texas,451
+Texas,452
+Texas,453
+Texas,454
+Texas,455
+Texas,456
+Texas,457
+Texas,458
+Texas,459
+Texas,460
+Texas,461
+Texas,462
+Texas,463
+Texas,464
+Texas,465
+Texas,466
+Texas,467
+Minnesota,468
+Minnesota,469
+Minnesota,470
+Minnesota,471
+Minnesota,472
+Minnesota,473
+Minnesota,474
+Minnesota,475
+Minnesota,476
+Minnesota,477
+Iowa,478
+Iowa,479
+Iowa,480
+Iowa,481
+Iowa,482
+Iowa,483
+Iowa,484
+Iowa,485
+Missouri,486
+Missouri,487
+Missouri,488
+Missouri,489
+Missouri,490
+Missouri,491
+Missouri,492
+Missouri,493
+Missouri,494
+Missouri,495
+Missouri,496
+Missouri,497
+Missouri,498
+Missouri,499
+Missouri,500
+North Dakota,501
+North Dakota,502
+South Dakota,503
+South Dakota,504
+Nebraska,505
+Nebraska,506
+Nebraska,507
+Nebraska,508
+Kansas,509
+Kansas,510
+Kansas,511
+Kansas,512
+Kansas,513
+Kansas,514
+Kansas,515
+Montana,516
+Montana,517
+Idaho,518
+Idaho,519
+Wyoming,520
+Colorado,650
+Colorado,651
+Colorado,652
+Colorado,653
+Colorado,521
+Colorado,522
+Colorado,523
+Colorado,524
+New Mexico,648
+New Mexico,649
+New Mexico,525
+New Mexico,585
+Arizona,600
+Arizona,601
+Arizona,526
+Arizona,527
+Utah,646
+Utah,647
+Utah,528
+Utah,529
+Utah,764
+Utah,765
+Nevada,680
+Nevada,530
+Washington,531
+Washington,532
+Washington,533
+Washington,534
+Washington,535
+Washington,536
+Washington,537
+Washington,538
+Washington,539
+Oregon,540
+Oregon,541
+Oregon,542
+Oregon,543
+Oregon,544
+California,602
+California,603
+California,604
+California,605
+California,606
+California,607
+California,608
+California,609
+California,610
+California,611
+California,612
+California,613
+California,614
+California,615
+California,616
+California,617
+California,618
+California,619
+California,620
+California,621
+California,622
+California,623
+California,624
+California,625
+California,626
+California,545
+California,546
+California,547
+California,548
+California,549
+California,550
+California,551
+California,552
+California,553
+California,554
+California,555
+California,556
+California,557
+California,558
+California,559
+California,560
+California,561
+California,562
+California,563
+California,564
+California,565
+California,566
+California,567
+California,568
+California,569
+California,570
+California,571
+California,572
+California,573
+Alaska,574
+Hawaii,750
+Hawaii,751
+Hawaii,575
+Hawaii,576
+District of Columbia,577
+District of Columbia,578
+District of Columbia,579
+Virgin Islands,580
+Puerto Rico,596
+Puerto Rico,597
+Puerto Rico,598
+Puerto Rico,599
+Puerto Rico,580
+Puerto Rico,581
+Puerto Rico,582
+Puerto Rico,583
+Puerto Rico,584
+Guam,586
+American Samoa,586
+Philippine Islands,586
+Railroad Board,700
+Railroad Board,701
+Railroad Board,702
+Railroad Board,703
+Railroad Board,704
+Railroad Board,705
+Railroad Board,706
+Railroad Board,707
+Railroad Board,708
+Railroad Board,709
+Railroad Board,710
+Railroad Board,711
+Railroad Board,712
+Railroad Board,713
+Railroad Board,714
+Railroad Board,715
+Railroad Board,716
+Railroad Board,717
+Railroad Board,718
+Railroad Board,719
+Railroad Board,720
+Railroad Board,721
+Railroad Board,722
+Railroad Board,723
+Railroad Board,724
+Railroad Board,725
+Railroad Board,726
+Railroad Board,727
+Railroad Board,728
+Enumeration at Entry,729
+Enumeration at Entry,730
+Enumeration at Entry,731
+Enumeration at Entry,732
+Enumeration at Entry,733
