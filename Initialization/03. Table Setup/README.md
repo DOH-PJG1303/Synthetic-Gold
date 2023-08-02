@@ -9,7 +9,7 @@ When we start the simulation, we retrace all individuals to 1890 and run the sim
 
 2. *Databricks* - Navigate to *04. Births Table - Grandparent Generation.py*.  Run script and wait for completion.
 
-3. *Databricks* - Navigate to *05. Population Table - Grandparent Generation.py*.  Run script and wait for completion.
+3. *Databricks* - Navigate to *05. Population Table - Grandparent Generation.py*.  **FOLLOW INSTRUCTIONS IN BEGINNING MARKDOWN OF SCRIPT**. THEN run script and wait for completion.
 
 4. *Databricks* - You can run 06. PhoneLookup Table.py* and *07. AdjectiveLookup.py* at the same time.  Please wait until all scripts have completed successfully before proceeding.
 

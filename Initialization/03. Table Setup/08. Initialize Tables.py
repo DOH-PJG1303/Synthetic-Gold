@@ -441,15 +441,3 @@ logState(path=synthetic_gold_stateManagement, upcoming_year=1890)
 
 
 
-# COMMAND ----------
-
-
-
-# COMMAND ----------
-
-spdf = spark.read.format('delta').load(f'{synthetic_gold_data_path}/SyntheticGold/Delta')
-spdf.display()
-
-# COMMAND ----------
-
-
