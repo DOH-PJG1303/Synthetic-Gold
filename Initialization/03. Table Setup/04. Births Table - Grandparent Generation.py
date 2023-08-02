@@ -381,7 +381,7 @@ spdf = spdf.withColumn('dob', sp_assign_dob(F.col('age')))
 
 # Prep spdf for name assignment by giving unique row_numbers to match on partitioned intentionally by characteristic.
 spdf = spdf.withColumn('yob', F.col('dob').substr(1,4))\
-           .withColumn('yob_match', F.when(F.col('yob') < 1880, F.lit(1880)).otherwise(F.col('yob')))\
+           .withColumn('yob_match', F.when(F.col('yob') < 1895, F.lit(1895)).otherwise(F.col('yob')))\
            .withColumn('fname_rownum', F.row_number().over(Window.partitionBy(['sex_at_birth','race','yob']).orderBy(F.rand(1))))\
            .withColumn('lname_rownum', F.row_number().over(Window.partitionBy(['race']).orderBy(F.rand(2))))
 
