@@ -62,7 +62,7 @@ However, I believe that it can be harmful in biases that it introduces.
 For example, it is biased against people who adopt new last names upon marriages/civil unions (more often "Female" Sex at Birth).
 Models that bias against non-american names can also produce high validation marks, but are flawed nonetheless.
 Consider the 2 records displayed earlier.
-There is a real chance that Wanda adopted a new last name and moved in the 6 years between when the data was collected.
+There is a real chance that Izzy adopted a new last name and moved in the 5 years between when the data was collected.
 
 Without relevant documentation (birth, marriage, ... , housing records), we have no way of knowing whether or not "Isabella Valencia" is the same person as "Izzy Langley".
 It follows that treating manual review as a "gold-standard" fails to completely support goal #2.
